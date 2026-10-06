@@ -1,14 +1,12 @@
 # RSI Indicator Expert for MT4/MT5
 
 <!-- START_HEADER -->
-
 Youtube:  
 MT4: https://youtu.be/eD0PlpIe3a4<br>
 MT5: https://youtu.be/lFbBC1yCrrc<br>
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
 https://orchardforex.com/ic
-
 <!-- END_HEADER -->
 
 If you haven't seen it, I have a recent series where I slowly built up an expert using a breakout strategy. The breakout doesn't use any indicators so I'm following up with videos that use indicators in the EA.
